@@ -12,7 +12,7 @@
 	<artifactId>Springboot_Git_Jenkins_Demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Springboot_Git_Jenkins_Demo</name>
-	<description>This application demostrate integration of Springboot application with Git - Jenkins</description>
+	<description>This application demonstrate integration of SpringBoot application with Git - Jenkins</description>
 	<url/>
 	<licenses>
 		<license/>
