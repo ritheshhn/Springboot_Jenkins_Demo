@@ -18,6 +18,8 @@ public class SpringbootGitJenkinsDemoApplication {
 
 	public static void main(String[] args) {
 		logger.info("Application Executed....");
+		logger.info("Logger added to check automated build trigger on every commit....!!!!");
+
 		SpringApplication.run(SpringbootGitJenkinsDemoApplication.class, args);
 	}
 
